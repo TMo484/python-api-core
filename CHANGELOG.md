@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-api-core/#history
 
+## [2.11.2](https://github.com/googleapis/python-api-core/compare/v2.11.1...v2.11.2) (2023-08-07)
+
+
+### Documentation
+
+* Fix a typo in google/api_core/page_iterator.py ([#511](https://github.com/googleapis/python-api-core/issues/511)) ([c0ce73c](https://github.com/googleapis/python-api-core/commit/c0ce73c4de53ad694fe36d17408998aa1230398f))
+
 ## [2.11.1](https://github.com/googleapis/python-api-core/compare/v2.11.0...v2.11.1) (2023-06-12)
 
 
