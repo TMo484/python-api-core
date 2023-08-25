@@ -86,7 +86,7 @@ class PollingFuture(base.Future):
             compatibility.
     """
 
-    _DEFAULT_VALUE = object()
+    _DEFAULT_VALUE = None
 
     def __init__(self, polling=DEFAULT_POLLING, **kwargs):
         super(PollingFuture, self).__init__()
